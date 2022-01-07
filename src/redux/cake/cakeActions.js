@@ -5,3 +5,5 @@ const buyCake = () => {
         type: BUY_CAKE
     }
 }
+
+export {buyCake}
